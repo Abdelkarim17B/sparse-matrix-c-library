@@ -155,3 +155,6 @@ This project is open source and available under the [MIT License](LICENSE).
 - [ ] Add support for different numeric types
 - [ ] Improve error handling and validation
 - [ ] Add performance benchmarking tools
+
+### Shoutout  
+👯 **Binome**: [AbdelAziz Akeb](https://github.com/4zz0u4k) — *Collaborator on this work*  
