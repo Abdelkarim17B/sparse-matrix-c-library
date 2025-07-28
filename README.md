@@ -130,10 +130,6 @@ make test
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ## Performance Characteristics
 
 - **Space Complexity**: O(n) where n is the number of non-zero elements
@@ -158,3 +154,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ### Shoutout  
 👯 **Binome**: [AbdelAziz Akeb](https://github.com/4zz0u4k) — *Collaborator on this work*  
+
+## License
+This project is for educational purposes.
